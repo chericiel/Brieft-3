@@ -47,7 +47,6 @@ Sécurité : Validation des entrées, utilisation de requêtes préparées, hash
 
 Brieft_3
 Structure du Projet/
-├── config/
 │   └── database.php         # Connexion MySQL via PDO
 ├── controllers/
 │   ├── AuthController.php   # Gestion de l'authentification (login, inscription, logout)
