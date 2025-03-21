@@ -2,19 +2,20 @@
 Brieft_3– Gestion des Utilisateurs (MVC, PHP, MySQL)
 Mon Projet est une application web sécurisée destinée aux PME, permettant de centraliser et de gérer les comptes utilisateurs via une architecture MVC personnalisée. L’application distingue deux profils principaux : Administrateur et Client.
 
-Table des Matières :
-Contexte
-Objectifs
-Fonctionnalités
-Technologies utilisées
-Structure du Projet
-Installation et Déploiement
-Utilisation
-Sécurité
-Contributions
-Licence
-Contact
-Contexte
+Table des Matières :<br>
+Contexte<br>
+Objectifs<br>
+Fonctionnalités<br>
+Technologies utilisées<br>
+Structure du Projet<br>
+Installation et Déploiement<br>
+Utilisation<br>
+Sécurité<br>
+Contributions<br>
+Licence<br>
+Contact<br>
+Contexte<br>
+
 Dans le cadre du développement d'une solution digitale pour PME, ce projet vise à sécuriser et centraliser la gestion des clients. L’application permet aux administrateurs de gérer les comptes clients (ajout, modification, suppression, activation/désactivation) ainsi que d’accéder aux logs de connexion, tandis que les clients peuvent consulter et modifier leurs informations personnelles et consulter l’historique de leurs connexions.
 
 Objectifs :
